@@ -1,0 +1,1 @@
+C:\Users\juanc\AndroidStudioProjects\ChatCifrado\buildSrc\build\classes\kotlin\main\AppComp.class;C:\Users\juanc\AndroidStudioProjects\ChatCifrado\buildSrc\build\classes\kotlin\main\Libs.class;C:\Users\juanc\AndroidStudioProjects\ChatCifrado\buildSrc\build\classes\kotlin\main\Versions.class
