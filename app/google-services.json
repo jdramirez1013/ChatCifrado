@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83960335984",
+    "project_id": "sendemails-f127c",
+    "storage_bucket": "sendemails-f127c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83960335984:android:b1dcc0a45a668c6dceeeb5",
+        "android_client_info": {
+          "package_name": "com.jdr.chatcifrado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83960335984-68o2b11hts2nls16n8ug7q0er3k6akph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA3tW9C8CTp4S6xYFDvwm0Lx4H29YkkYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83960335984-68o2b11hts2nls16n8ug7q0er3k6akph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

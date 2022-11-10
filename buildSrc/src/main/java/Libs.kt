@@ -8,6 +8,11 @@ object Libs {
     const val MATERIAL3 = "androidx.compose.material3:material3"
     const val DAGGER_HILT = "com.google.dagger:hilt-android"
     const val DAGGER_HILT_KAPT = "com.google.dagger:hilt-android-compiler"
+    const val FIREBASE_BOM = "com.google.firebase:firebase-bom"
+    const val FIREBASE_AUTH = "com.google.firebase:firebase-auth-ktx"
+    const val FIREBASE_FIRESTORE = "com.google.firebase:firebase-firestore-ktx"
+    const val FIREBASE_MESSAGING = "com.google.firebase:firebase-messaging-ktx"
+    const val PLAY_SERVICE_AUTH = "com.google.android.gms:play-services-auth"
 
     //Test
     const val JUNIT = "junit:junit"

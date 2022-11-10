@@ -59,9 +59,15 @@ dependencies {
     implementation(Libs.COMPOSE_UI)
     implementation(Libs.COMPOSE_TOOLING_PREVIEW)
     implementation(Libs.MATERIAL3)
-    implementation("com.google.dagger:hilt-android:2.44")
+    implementation(Libs.DAGGER_HILT)
 
-    kapt("com.google.dagger:hilt-android-compiler:2.44")
+    implementation(platform(Libs.FIREBASE_BOM))
+    implementation(Libs.FIREBASE_AUTH)
+    implementation(Libs.PLAY_SERVICE_AUTH)
+    implementation(Libs.FIREBASE_FIRESTORE)
+    implementation(Libs.FIREBASE_MESSAGING)
+
+    kapt(Libs.DAGGER_HILT_KAPT)
 
     testImplementation(Libs.JUNIT)
     androidTestImplementation(Libs.TEST_JUNIT)
