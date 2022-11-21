@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-include (":app", "depconstraints")
+include (":app", ":depconstraints", ":model", ":data", ":domain")
 rootProject.name = "ChatCifrado"

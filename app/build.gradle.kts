@@ -51,6 +51,7 @@ android {
 
 dependencies {
     api(platform(project(":depconstraints")))
+    api(platform(project(":domain")))
     kapt(platform(project(":depconstraints")))
 
     implementation(Libs.CORE_KTX)
